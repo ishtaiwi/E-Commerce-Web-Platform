@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="690bd5ac-7e7d-4187-900a-25cdc41b0297" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/fitness-master/.github/workflows/build.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.github/workflows/maven.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.idea/sonarlint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/Enrolls.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/Notifications.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/Programs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/Reviews.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/Users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/accounts.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/clientfeatures/createProfiles.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/clientfeatures/enroll.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/clientfeatures/notification.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/clientfeatures/rate.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/feedback.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/insructor_Delete_schedule.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/instructor_Add_schedule.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/instructor_client_interaction.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/instructor_delete_program.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/instructor_forum.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/instructor_manage_program.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/instructor_update_program.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/features/instructorfeatures/progress.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/forums.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/group_members.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/output/reports/popular_programs_report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/output/reports/sample_report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/addProgram.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/addSchedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/addUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/aprrove.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/createProfiles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/deleteProgram.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/deleteSchedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/generateReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/rate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/updateActive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/updateProgram.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/outputTesting/updateUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/reports/users_report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/schedules.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/accountmanagement/AccountManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/accountmanagement/AccountManagementManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/admin_management/UserManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/clientenroll/Enrollment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/clientenroll/EnrollmentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/helper/DataBasee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/helper/PDFReportGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/helper/Validation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/instructor_interaction/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/instructor_interaction/DataBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/instructor_interaction/Forum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/instructor_interaction/ForumManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/instructor_interaction/Massage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/instructor_interaction/MassageManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/programmanager/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/programmanager/NotificationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/programmanager/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/programmanager/ProgramManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/programmanager/Schedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/programmanager/ScheduleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/main/java/fitness/user_management/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/accountManagement/createProfilesTestCases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/accountManagement/createProfilesTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/accountManagement/rateTC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/accountManagement/rateTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/instructor_Interaction/InsructorSendFeedback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/instructor_Interaction/InstructorForum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/instructor_Interaction/InstructorForumTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/instructor_Interaction/InstructorMassager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/instructor_Interaction/SendMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/AddProgramtester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/AddScheduletester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/DeleteScheduletester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/EnrollClientTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/TestAddProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/TestAddSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/TestDeleteProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/TestDeleteSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/TestEnrollClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/TestUpdateProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/TestUpdateProgress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/UpdateProgramtester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/UpdateProgresstester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/programManager/deleteProgramtester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/addUserTestCases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/addUserTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/generateReportTC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/generateReportTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/updateActiveTestCases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/updateActiveTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/updateUserTestCases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/src/test/java/userManagement/updateUserTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/userManagementFeature/addUser.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/userManagementFeature/approveNewInstructorRegistrations.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/userManagementFeature/deactiveUser.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/userManagementFeature/generateReport.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-master/userManagementFeature/updateUser.feature" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="31YVZVEApWw3V5VB51CX4WIeQ2a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="690bd5ac-7e7d-4187-900a-25cdc41b0297" name="Changes" comment="" />
+      <created>1755701049765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755701049765</updated>
+      <workItem from="1755701051820" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
